@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "0392cd5eb366cfd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f21571cb08be6fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d8dabd377701dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutoriales/Tutorial de Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "755563fadd483585",
+    "type": "split",
+    "children": [
+      {
+        "id": "80643c68b5f844ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10c967c85c1f7413",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07d114df8d095e62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ea33225a6f65c03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5110321044922
+  },
+  "right": {
+    "id": "650e89e8cc46970c",
+    "type": "split",
+    "children": [
+      {
+        "id": "22f22ba7e42d9f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21cd0ec7b72e2e08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tutoriales/Tutorial de Obsidian.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f86ed56a7cd3711",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tutoriales/Tutorial de Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae25ea6664a21d6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa700341896f1bf2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tutoriales/Tutorial de Obsidian.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "3d8dabd377701dbc",
+  "lastOpenFiles": [
+    "Testing/Generación de Data.md",
+    "Tutoriales/Tutorial de Obsidian.md",
+    "Testing/Datos.md",
+    "Untitled Kanban.md",
+    "Sin título.canvas",
+    "Testing/Aplicaciones/Jmeter.md",
+    "Testing/Aplicaciones/Postman.md",
+    "Testing/MONITOREO.md",
+    "Testing/Técnicos.md",
+    "Testing/Performance.md",
+    "Tutoriales/Plantillas Obsidian.md",
+    "Testing/Checklist QA/Checklist Template/01 PRE-CERTIFICACIÓN.md",
+    "Testing/Checklist QA/Checklist 02.Home/04 POST PASE PRD.md",
+    "Testing/Checklist QA/Checklist 02.Home/03 PRE PASE PRD.md",
+    "Testing/Checklist QA/Checklist 02.Home/02 CERTIFICACIÓN EN CURSO.md",
+    "Testing/Checklist QA/Checklist 02.Home/01 PRE-CERTIFICACIÓN.md",
+    "Testing/Checklist QA/Checklist 03.PosicionConsolidada/04 POST PASE PRD.md",
+    "Testing/Checklist QA/Checklist Template/04 POST PASE PRD.md",
+    "Testing/Checklist QA/Checklist Template/03 PRE PASE PRD.md",
+    "Testing/Checklist QA/Checklist Template/02 CERTIFICACIÓN EN CURSO.md",
+    "Testing/Checklist QA/Checklist 04.PendienteFirma/04 POST PASE PRD.md",
+    "Testing/Checklist QA/Checklist 04.PendienteFirma/03 PRE PASE PRD.md",
+    "Testing/Checklist QA/Checklist 04.PendienteFirma/02 CERTIFICACIÓN EN CURSO.md",
+    "Testing/Checklist QA/Checklist 03.PosicionConsolidada/03 PRE PASE PRD.md",
+    "Testing/Checklist QA/Checklist 04.PendienteFirma/01 PRE-CERTIFICACIÓN.md",
+    "Testing/Checklist QA/Checklist 03.PosicionConsolidada/02 CERTIFICACIÓN EN CURSO.md",
+    "Testing/Checklist QA/Checklist 03.PosicionConsolidada/01 PRE-CERTIFICACIÓN.md",
+    "Testing/Checklist QA/Checklist 02.Home",
+    "Testing/Checklist QA/Checklist Template",
+    "Testing/Checklist QA/Checklist 04.PendienteFirma",
+    "Testing/Checklist QA/Checklist 03.PosicionConsolidada",
+    "Testing/Checklist QA/Checklist 01.LOGIN",
+    "Testing/Checklist QA",
+    "Testing/Release Template/Checklist Template",
+    "Testing/Release Template/Checklist 04.PendienteFirma - copia",
+    "Testing/Release Template/Checklist 04.PendienteFirma",
+    "Testing/Release Template/Checklist 01.LOGIN - copia"
+  ]
+}

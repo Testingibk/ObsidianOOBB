@@ -1,0 +1,12 @@
+#### Parte 1
+- En Holding se verá el número total de Pendiente de Firma
+- Se puede filtrar mas de uno??
+- Estado: Pendiente y Pendiente de 1ra y 2da firma.
+- Operador: 
+- Solicitud puede ser cualquier operación: Transferencia o Pago y va a tener un correlativo.
+- Transferencias entre mis cuentas empresa, mismo grupo | terceros | Fuera del alcance al exterior.
+- Pago CTS, Haberes, Proveedores.
+- Cuando esta asociado a Hiperfirma esta asociado a dos.
+- Son 5 días configurados para que expire la Solicitud de Operación.
+- Pruebas de **==Performance==** en PENDIENTES DE FIRMA en selección múltiple.
+- 
