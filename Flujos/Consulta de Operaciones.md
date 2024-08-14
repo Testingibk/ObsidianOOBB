@@ -1,0 +1,5 @@
+- Se da para Transferencia y Pagos Masivos y cada uno tiene sus respectivos estados
+- Cuanto tiempo se guarda la info?? Se va a traer por default todo.
+- En cuanto tiempo se da en Vencido? 5 dias hábiles
+- El pdf tiene cabecera y pie de pagina? siguiente refinamiento.
+- 
